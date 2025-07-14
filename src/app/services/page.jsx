@@ -80,61 +80,28 @@ export default function Services() {
               </div>
             </div>
             <div className="services__card">
-              <h3 className="services__card_header">Project Management</h3>
+              <h3 className="services__card_header">Backend Development</h3>
               <p className="services__card_description">
-                I can help you manage your project from start to finish,
-                ensuring that your project is delivered on time, within budget,
-                and to the highest quality standards.
+                I develop secure, scalable backend systems and APIs that power
+                modern web and mobile apps. From authentication to cloud
+                deployment, I build with performance and maintainability in
+                mind.
               </p>
               <ul>
                 <li>
-                  <span>Project Planning</span>
+                  <span>Frameworks: Node.js, Express.js, NestJS</span>
                 </li>
                 <li>
-                  <span>Project Scheduling</span>
+                  <span>Databases: MongoDB, PostgreSQL, MySQL</span>
                 </li>
                 <li>
-                  <span>Agile Project Management</span>
+                  <span>Auth & Security: JWT, OAuth2, sessions</span>
                 </li>
                 <li>
-                  <span>Sprint planning & execution</span>
+                  <span>API Design: REST, </span>
                 </li>
                 <li>
-                  <span>Product roadmap & backlog management</span>
-                </li>
-              </ul>
-              <div className="services__card__cta">
-                <Link href="https://calendly.com/ekweozorinnocent/consultation">
-                  <span>Schedule a call</span>
-                </Link>
-                <Link href="whatsapp://send?phone=2347017915992">
-                  <FaWhatsapp />
-                  <span>Send a message</span>
-                </Link>
-              </div>
-            </div>
-            <div className="services__card">
-              <h3 className="services__card_header">MVP Development</h3>
-              <p className="services__card_description">
-                In collaboration with my team, <Link href="/">NextBuildr</Link>,
-                I can help you build a Minimum Viable Product (MVP) that meets
-                your business goals, user needs, and technical requirements.
-              </p>
-              <ul>
-                <li>
-                  <span>Lean startup approach & rapid prototyping</span>
-                </li>
-                <li>
-                  <span>User research & feedback</span>
-                </li>
-                <li>
-                  <span>Defining core features & iterations</span>
-                </li>
-                <li>
-                  <span>Software development & testing</span>
-                </li>
-                <li>
-                  <span>Launch strategies & marketing</span>
+                  <span>Cloud & DevOps: AWS, Render, Vercel, Netlify</span>
                 </li>
               </ul>
               <div className="services__card__cta">
@@ -149,29 +116,28 @@ export default function Services() {
             </div>
             <div className="services__card">
               <h3 className="services__card_header">
-                Full product development & enhancements
+                Full Product Builds & Enhancements
               </h3>
               <p className="services__card_description">
-                In collaboration with my team, <Link href="/">NextBuildr</Link>,
-                I can deliver to you a full software product, web application,
-                mobile app, or website that meets your business goals, user
-                needs, and technical requirements.
+                From planning to deployment and ongoing optimization, I handle
+                the complete lifecycle of digital product development — web
+                apps, mobile apps, admin dashboards, and more.
               </p>
               <ul>
                 <li>
-                  <span>End-to-end product development</span>
+                  <span>Full-stack architecture</span>
                 </li>
                 <li>
-                  <span>Scalable architecture & design</span>
+                  <span>Responsive UI & UX design</span>
                 </li>
                 <li>
-                  <span>Continuous integration & deployment</span>
+                  <span>Scalable REST or GraphQL APIs</span>
                 </li>
                 <li>
-                  <span>Continuous improvements & optimization</span>
+                  <span>CI/CD, version control, and deployment pipelines</span>
                 </li>
                 <li>
-                  <span>User feedback analysis & iteration</span>
+                  <span>Performance tuning and feature enhancements</span>
                 </li>
               </ul>
               <div className="services__card__cta">
@@ -184,12 +150,15 @@ export default function Services() {
                 </Link>
               </div>
             </div>
+
             <div className="services__card">
-              <h3 className="services__card_header">Writing & Documentation</h3>
+              <h3 className="services__card_header">
+                Technical Writing & Documentation
+              </h3>
               <p className="services__card_description">
-                I can help you write and document your product requirements,
-                user stories, acceptance criteria, technical documentation, user
-                guides, and more.
+                I create clear, developer- and user-friendly documentation for
+                projects of any scale, helping teams stay aligned and ensuring
+                maintainability.
               </p>
               <ul>
                 <li>
