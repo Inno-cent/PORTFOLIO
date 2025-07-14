@@ -1,0 +1,35 @@
+@use '/src/assets/scss/variables';
+@use '/src/assets/scss/mixins';
+@use '/src/assets/scss/breakpoint';
+
+.dashboard {
+    display: grid;
+    grid-template-columns: 240px auto;
+    grid-template-rows: 1fr;
+    grid-template-areas: "sidebar main";
+    height: auto;
+    @include breakpoint.breakpoint-custom-down(985) {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas: "main";
+        grid-template-columns: 1fr;
+    }
+}
+
+.main__content-wrapper {
+    grid-area: main;
+    height: auto;
+    width: 100%;
+    position: relative;
+    padding: 10px;
+
+    .main__content {
+        height: auto;
+        width: 100%;
+        position: relative;
+        padding: 10px;
+    }
+    @include breakpoint.breakpoint-custom-down(985) {
+        padding: 0 12px;
+    }
+}

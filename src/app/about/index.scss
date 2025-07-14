@@ -1,0 +1,27 @@
+@use '/src/assets/scss/breakpoint';
+
+.about-page {
+    padding: 45px;
+    max-width: 960px;
+    padding-top: 1rem;
+    @include breakpoint.breakpoint-custom-down(985) {
+        padding: 0;
+        padding-top: 8rem;
+    }
+}
+
+.about__section_wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+    margin-top: 30px;
+    padding-top: 0;
+    width: 100%;
+    align-items: baseline;
+    background-color: #fff;
+    border-radius: 8px;
+    @include breakpoint.breakpoint-custom-down(985) {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
