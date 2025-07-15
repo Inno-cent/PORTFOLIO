@@ -72,10 +72,10 @@ const MobileHeader = () => {
           <figure>
             <img src="/tunde.png" alt="Logo" />
           </figure>
-          {/* <div className="mobile_header__content">
+          <div className="mobile_header__content">
             <h4>Ekweozor innocent</h4>
             <p>Software Dev</p>
-          </div> */}
+          </div>
         </Link>
         <div
           className={`mobile__hamburger ${open ? "open" : ""}`}
