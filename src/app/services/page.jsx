@@ -162,19 +162,16 @@ export default function Services() {
               </p>
               <ul>
                 <li>
-                  <span>Product specs & feature documentation</span>
+                  <span>API documentation</span>
                 </li>
                 <li>
-                  <span>User guides & tutorials</span>
+                  <span>Developer handoff docs</span>
                 </li>
                 <li>
-                  <span>Blog posts & articles</span>
+                  <span>User guides & walkthroughs</span>
                 </li>
                 <li>
-                  <span>White papers</span>
-                </li>
-                <li>
-                  <span>Technical documentation</span>
+                  <span>Blog posts, changelogs, and release notes</span>
                 </li>
               </ul>
               <div className="services__card__cta">
