@@ -77,7 +77,7 @@ const MobileHeader = () => {
             <p>Software Dev</p>
           </div>
         </Link>
-        <div
+        {/* <div */}
           className={`mobile__hamburger ${open ? "open" : ""}`}
           onClick={handleOpen}
         >
