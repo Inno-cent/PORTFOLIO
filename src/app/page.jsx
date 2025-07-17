@@ -144,7 +144,7 @@ export default function Home() {
               <h4>Certifications</h4>
               <ul>
                 <li>
-                  Project Management Professional (PMP) - PMI -- In view
+                  Google cloud (GCP) - GADTP 
                   <br />
                   <br />
                   2025
