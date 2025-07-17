@@ -202,30 +202,31 @@ export default function Home() {
         <div className="home_stacks">
           <h3 className="home_stacks-header">Stacks</h3>
           <div className="home__stacks_wrapper">
-            <div className="home__stack_card">
-              <img src="/ClickUp_idfty-HNVU_0.svg" alt="clickup" />
-              <h4>ClickUp</h4>
+             <div className="home__stack_card">
+              <img src="/nodejs.svg" alt="nodejs" />
+              <h4>Nodejs</h4>
             </div>
             <div className="home__stack_card">
-              <img src="/trello.svg" alt="trello" />
-              <h4>Trello</h4>
+              <img src="/vue.svg" alt="vue" />
+              <h4>Vue</h4>
             </div>
             <div className="home__stack_card">
-              <img src="/notion-2.svg" alt="notion" />
-              <h4>Notion</h4>
+              <img src="/react-logo.svg" alt="react" />
+              <h4>React</h4>
             </div>
             <div className="home__stack_card">
               <img src="/postman.svg" alt="postman" />
               <h4>API Testing</h4>
             </div>
             <div className="home__stack_card">
+              <img src="/nextjs.svg" alt="nextjs" />
+              <h4>Nextjs</h4>
+            </div>
+            <div className="home__stack_card">
               <img src="/github.svg" alt="github" />
               <h4>Github</h4>
             </div>
-            <div className="home__stack_card">
-              <img src="/user.svg" alt="user research" />
-              <h4>User research</h4>
-            </div>
+           
           </div>
           <div className="see-more">
             <Link href="/stack">
