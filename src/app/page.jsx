@@ -202,7 +202,7 @@ export default function Home() {
         <div className="home_stacks">
           <h3 className="home_stacks-header">Stacks</h3>
           <div className="home__stacks_wrapper">
-             <div className="home__stack_card">
+            <div className="home__stack_card">
               <img src="/nodejs.svg" alt="nodejs" />
               <h4>Nodejs</h4>
             </div>
@@ -226,7 +226,6 @@ export default function Home() {
               <img src="/github.svg" alt="github" />
               <h4>Github</h4>
             </div>
-           
           </div>
           <div className="see-more">
             <Link href="/stack">
