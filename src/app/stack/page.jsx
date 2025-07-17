@@ -48,13 +48,13 @@ const Stack = () => {
                 title="User-Centered Development"
                 subtitle="I build user experiences with direct input from users, usability tests, and UX research."
                 logo="/roadmap.svg"
-                alt="AI Product Management logo"
+                alt="ser-Centered Development"
               />
               <StackCard
-                title="Competitive Analysis"
+                title="UI/UX Implementation"
                 subtitle="I conduct competitive analysis to understand the market. My belief is that understanding the market is key to building successful products."
                 logo="/competitive.svg"
-                alt="AI Product Management logo"
+                alt="UI/UX Implementation"
               />
               <StackCard
                 title="User Research"
