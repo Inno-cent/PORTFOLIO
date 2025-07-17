@@ -23,14 +23,17 @@ const Stack = () => {
           </div>
         </div>
         <p className="home-about">
-          My stack is a combination of tools, skills and technologies like
-          Figma, ClickUp, Notion, Trello, React, Miro, Roadmapping, Competitive
-          analysis, etc. My goal is to build products that users love and solve
-          an actual problem.
+          I'm a full-stack developer who enjoys building fast, scalable web apps
+          using tools like React, Node.js, Express, MongoDB, and Next.js. I also
+          use Figma, Notion, ClickUp, Trello, and Miro for everything from
+          design collaboration to planning and task tracking. Whether it's
+          mapping out a product roadmap, digging into the competition, or
+          writing clean, maintainable code — I'm focused on solving real
+          problems and creating great user experiences.
         </p>
         <div className="stacksCard-wrapper">
           <div className="stacksCard-inner-wrapper stacksCard-inner-wrapper-first">
-            <h3>PM skills</h3>
+            <h3>Developer skills</h3>
             <div className="stacks--item-grid">
               <StackCard
                 title=" System Architecture"
@@ -41,25 +44,31 @@ const Stack = () => {
               <StackCard
                 title="Competitive Tech Evaluation"
                 subtitle="I evaluate frameworks, libraries, and tools to choose the best technologies based on performance, maintainability, and community support."
-                logo="/startup.svg"
+                logo="/cte.png"
                 alt="Competitive Tech Evaluation"
               />
               <StackCard
                 title="User-Centered Development"
                 subtitle="I build user experiences with direct input from users, usability tests, and UX research."
-                logo="/roadmap.svg"
+                logo="/ucd.png"
                 alt="ser-Centered Development"
+              />
+              <StackCard
+                title=" Startup Engineering"
+                subtitle="I build user experiences with direct input from users, usability tests, and UX research."
+                logo="/se.png"
+                alt=" Startup Engineering"
               />
               <StackCard
                 title="UI/UX Implementation"
                 subtitle="I conduct competitive analysis to understand the market. My belief is that understanding the market is key to building successful products."
-                logo="/competitive.svg"
+                logo="/uiux.png"
                 alt="UI/UX Implementation"
               />
               <StackCard
                 title="End-to-End Development"
                 subtitle="I am able to manage the entire development cycle—from setting up back-end APIs to building responsive front-end interfaces."
-                logo="/research.svg"
+                logo="/eted.png"
                 alt="AI Product Management logo"
               />
               <StackCard
@@ -77,22 +86,21 @@ const Stack = () => {
               <StackCard
                 title="Technical Strategy"
                 subtitle="I help define technical direction, architectural patterns, and long-term engineering strategies aligned with product vision."
-                logo="/agile.svg"
+                logo="/ts.png"
                 alt="Technical Strategy"
               />
               <StackCard
                 title="Lifecycle Ownership"
                 subtitle="I take ownership of features/products from ideation to maintenance, supporting through feedback cycles and iterations."
-                logo="/launch.svg"
+                logo="/lo.png"
                 alt="Lifecycle Ownership"
               />
               <StackCard
                 title="Performance & Usage Metrics"
                 subtitle="I implement product analytics (GA, Mixpanel, custom dashboards) and use metrics to guide optimizations and feature improvements."
-                logo="/strategy.svg"
+                logo="/pum.png"
                 alt="Performance & Usage Metrics"
               />
-             
             </div>
           </div>
         </div>
@@ -112,12 +120,13 @@ const Stack = () => {
                 logo="/ClickUp_idfty-HNVU_0.svg"
                 alt="ClickUp logo"
               />
-              <StackCard
-                title="Notion"
-                subtitle="I use Notion for note-taking, documentation and project management. I believe It's my go-to tool for documentation."
-                logo="/notion-2.svg"
-                alt="Notion logo"
+ <StackCard
+                title="VS code"
+                subtitle="i use vscode as my choice of code editor"
+                logo="/vscode.svg"
+                alt="vscode logo"
               />
+
               <StackCard
                 title="Trello"
                 subtitle="I use Trello for project management and task management. I believe I have a great understanding of Trello."
@@ -125,14 +134,14 @@ const Stack = () => {
                 alt="Trello logo"
               />
               <StackCard
-                title="Miro"
-                subtitle="I use Miro for brainstorming, user story mapping and user flows."
-                logo="/miro-2.svg"
-                alt="Miro logo"
-              />
-              <StackCard
                 title="ChatGPT"
                 subtitle="I use ChatGPT for generating ideas, researching and brainstorming."
+                logo="/openai.svg"
+                alt="ChatGPT logo"
+              />
+              <StackCard
+                title="Docker"
+                subtitle="I use docker for Containerization and environment setup"
                 logo="/openai.svg"
                 alt="ChatGPT logo"
               />
