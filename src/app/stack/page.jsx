@@ -57,53 +57,42 @@ const Stack = () => {
                 alt="UI/UX Implementation"
               />
               <StackCard
-                title="User Research"
-                subtitle="I conduct user research to understand user needs. I believe in user-centered design."
+                title="End-to-End Development"
+                subtitle="I am able to manage the entire development cycle—from setting up back-end APIs to building responsive front-end interfaces."
                 logo="/research.svg"
                 alt="AI Product Management logo"
               />
               <StackCard
-                title="Product Design"
-                subtitle="I have experience working with product designers to create user-friendly products."
+                title="Agile Development"
+                subtitle="I follow Agile methodologies, working in sprints, writing user stories, and collaborating via tools like Jira or Trello."
                 logo="/design.svg"
-                alt="AI Product Management logo"
+                alt="Agile Development"
               />
               <StackCard
-                title="Product Development"
-                subtitle="I have experience working with developers and engineers to build products."
+                title="Deployment & DevOps"
+                subtitle="I handle product deployments, CI/CD pipelines, Docker containers, and monitor product health post-launch."
                 logo="/development.svg"
-                alt="AI Product Management logo"
+                alt="Deployment & DevOps"
               />
               <StackCard
-                title="Agile Methodology"
-                subtitle="I have experience working with agile methodology and Scrum."
+                title="Technical Strategy"
+                subtitle="I help define technical direction, architectural patterns, and long-term engineering strategies aligned with product vision."
                 logo="/agile.svg"
-                alt="AI Product Management logo"
+                alt="Technical Strategy"
               />
               <StackCard
-                title="Product Launch"
-                subtitle="I have experience launching products and managing product launches."
+                title="Lifecycle Ownership"
+                subtitle="I take ownership of features/products from ideation to maintenance, supporting through feedback cycles and iterations."
                 logo="/launch.svg"
-                alt="AI Product Management logo"
+                alt="Lifecycle Ownership"
               />
               <StackCard
-                title="Product Strategy"
-                subtitle="I have experience creating product strategies and vision that align with the company's goals."
+                title="Performance & Usage Metrics"
+                subtitle="I implement product analytics (GA, Mixpanel, custom dashboards) and use metrics to guide optimizations and feature improvements."
                 logo="/strategy.svg"
-                alt="AI Product Management logo"
+                alt="Performance & Usage Metrics"
               />
-              <StackCard
-                title="PLC Management"
-                subtitle="I have experience managing product life cycle. I can take a product from ideation to launch. I have taken a product from ideation to launch."
-                logo="/management.svg"
-                alt="AI Product Management logo"
-              />
-              <StackCard
-                title="Product Metrics"
-                subtitle="I have experience defining product metrics and KPIs. I use data to make informed decisions. I believe in data-driven product management."
-                logo="/metrics.svg"
-                alt="AI Product Management logo"
-              />
+             
             </div>
           </div>
         </div>
