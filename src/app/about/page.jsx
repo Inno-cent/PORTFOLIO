@@ -98,7 +98,7 @@ export default function About() {
                 with developers.
                 <br />
                 <br />
-                intern fronntend developer
+                intern software developer
                 <br />
                 <br />
                 2022
@@ -110,7 +110,7 @@ export default function About() {
                 with travelers.
                 <br />
                 <br />
-                Product Manager
+                Frontend developer
                 <br />
                 <br />
                 2022 - 2024
