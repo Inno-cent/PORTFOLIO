@@ -44,8 +44,7 @@ export default function About() {
                                             </h4>
                                             <ul>
                                                 <li>
-                                                University of Lagos – B.A in Creative Arts<br /><br/>
-                                                2020 - 2025
+                                                 Lagos state University - Electronics and computer engineering
                                                 </li>
                                             </ul>
                                         </div>

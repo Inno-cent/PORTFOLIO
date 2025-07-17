@@ -114,25 +114,12 @@ export default function Home() {
               <GiBlackBook />
               <h4>Non-Formal Education</h4>
               <ul>
+                
                 <li>
-                  University of Alberta - Software product management (Coursera)
+                  Python complete course - Libit
                   <br />
                   <br />
                   2023
-                  <br />
-                  <br />
-                  <a
-                    href="https://coursera.org/share/3c07f0c2133d85e778013d95c05420bb"
-                    target="_blank"
-                  >
-                    See Certificate
-                  </a>
-                </li>
-                <li>
-                  Python complete course - NitHub (University of Lagos)
-                  <br />
-                  <br />
-                  2025
                 </li>
               </ul>
             </div>
