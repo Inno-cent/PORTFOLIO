@@ -35,18 +35,18 @@ const Stack = () => {
               <StackCard
                 title=" System Architecture"
                 subtitle="I design scalable, maintainable, and efficient system architectures using modern tech stacks."
-                logo="/sysarch.svg"
+                logo="/sss.png"
                 alt="System Architecture"
               />
               <StackCard
-                title="Startup Environment"
-                subtitle="I have experience working in a startup environment. I have worked in a fast-paced environment and I am comfortable with ambiguity."
+                title="Competitive Tech Evaluation"
+                subtitle="I evaluate frameworks, libraries, and tools to choose the best technologies based on performance, maintainability, and community support."
                 logo="/startup.svg"
-                alt="AI Product Management logo"
+                alt="Competitive Tech Evaluation"
               />
               <StackCard
-                title="Product Roadmapping"
-                subtitle="I create product roadmaps that align with the company's goals. Without a roadmap, it's hard to know where you're going."
+                title="User-Centered Development"
+                subtitle="I build user experiences with direct input from users, usability tests, and UX research."
                 logo="/roadmap.svg"
                 alt="AI Product Management logo"
               />
