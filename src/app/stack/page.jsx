@@ -120,7 +120,7 @@ const Stack = () => {
                 logo="/ClickUp_idfty-HNVU_0.svg"
                 alt="ClickUp logo"
               />
- <StackCard
+              <StackCard
                 title="VS code"
                 subtitle="i use vscode as my choice of code editor"
                 logo="/vscode.svg"
@@ -142,7 +142,7 @@ const Stack = () => {
               <StackCard
                 title="Docker"
                 subtitle="I use docker for Containerization and environment setup"
-                logo="/openai.svg"
+                logo="/docker.svg"
                 alt="ChatGPT logo"
               />
               <StackCard
@@ -200,23 +200,47 @@ const Stack = () => {
                 logo="/react.svg"
                 alt="React logo"
               />
+
               <StackCard
-                title="API Integration"
-                subtitle="I have experience integrating APIs. I have an understanding of how APIs work and how it affects the business."
-                logo="/postman.svg"
+                title="Next.js"
+                subtitle="I use Next.js for building scalable, SEO-friendly fullstack apps with server-side rendering."
+                logo="/nextjs.svg"
+                alt="Next.js logo"
+              />
+
+              <StackCard
+                title="Node.js & Express"
+                subtitle="I create robust backend APIs using Node.js and Express, handling routing, middleware, and server logic."
+                logo="/nodejs.svg"
                 alt="Node.js logo"
               />
+
               <StackCard
                 title="JavaScript"
                 subtitle="I have experience working with JavaScript. I believe I am an intermediate JavaScript developer."
                 logo="/javascript.svg"
                 alt="Node.js logo"
               />
+
               <StackCard
-                title="Software Testing"
-                subtitle="I have experience testing softwares manually and with tools like Postman and browser stack."
-                logo="/browserstack.svg"
-                alt="browser stack"
+                title="MongoDB"
+                subtitle="I work with MongoDB for flexible, document-based data storage and efficient querying with Mongoose."
+                logo="/mongo.svg"
+                alt="MongoDB logo"
+              />
+
+              <StackCard
+                title="PostgreSQL"
+                subtitle="I use relational databases like PostgreSQL for structured data, foreign keys, and powerful queries."
+                logo="/postgresql.svg"
+                alt="PostgreSQL logo"
+              />
+
+              <StackCard
+                title="REST API"
+                subtitle="I design clean, RESTful APIs that support scalable client-server communication."
+                logo="/postman.svg"
+                alt="API logo"
               />
               <StackCard
                 title="HTML"
@@ -241,6 +265,12 @@ const Stack = () => {
                 subtitle="I have experience working with Tailwind CSS. I use Tailwind CSS for styling websites."
                 logo="/tailwind.svg"
                 alt="Git logo"
+              />
+              <StackCard
+                title="API Integration"
+                subtitle="I have experience integrating APIs. I have an understanding of how APIs work and how it affects the business."
+                logo="/postman.svg"
+                alt="Node.js logo"
               />
             </div>
           </div>
