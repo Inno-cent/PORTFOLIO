@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Ekweozor Innocent",
   description:
-    "Joseph Tunde is a technical product manager, project manager, product leader, and writer building exceptional products and teams.",
+    "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
   image: "https://wwww.josephtunde.me/tunde.png",
   twitterHandle: "@codesbycent",
   siteUrl: "https://www.josephtunde.me",
@@ -16,16 +16,16 @@ export const metadata = {
   authorName: "Ekweozor innocent",
   authorAvatar: "https://wwww.josephtunde.me/tunde.png",
   authorDescription:
-    "Joseph Tunde is a technical product manager, project manager, product leader, and writer building exceptional products and teams.",
+    "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
   defaultTitle: "Ekweozor innocent",
   defaultDescription:
-    "Joseph Tunde is a technical product manager, project manager, product leader, and writer building exceptional products and teams.",
+    "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
   defaultImage: "https://wwww.josephtunde.me/tunde.png",
   defaultTwitterHandle: "@__jot",
   defaultAuthor: "Ekweozor innocent",
   defaultAuthorAvatar: "https://wwww.josephtunde.me/tunde.png",
   defaultAuthorDescription:
-    "Joseph Tunde is a technical product manager, project manager, product leader, and writer building exceptional products and teams.",
+    "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
   socialLinks: {
     twitter: "https://x.com/codesbycent",
     linkedin: "https://www.linkedin.com/in/ekweozor-innocent-026336223/",
@@ -57,7 +57,7 @@ export const metadata = {
     type: "website",
     locale: "en_US",
     description:
-      "Joseph Tunde is a technical product manager, project manager, product leader, and writer building exceptional products and teams.",
+      "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
     url: "https://www.josephtunde.me",
     site_name: "Joseph Tunde",
     images: [
@@ -77,7 +77,7 @@ export const metadata = {
     title: "Ekweozor innocent",
     handle: "@codesbycent",
     description:
-      "Joseph Tunde is a technical product manager, project manager, product leader, and writer building exceptional products and teams.",
+      "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
     images: ["https://wwww.josephtunde.me/tunde.png"],
   },
 
