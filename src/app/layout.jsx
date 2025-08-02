@@ -50,7 +50,7 @@ export const metadata = {
     "software engineering",
     "Writing",
     "Software developer Portfolio",
-    // "Software developer Blog",
+    "Software developer Blog",
     // "Ekweozor innocent Contact",
   ],
   openGraph: {
