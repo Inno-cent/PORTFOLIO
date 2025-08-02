@@ -51,7 +51,7 @@ export const metadata = {
     "Writing",
     "Software developer Portfolio",
     "Software developer Blog",
-    "Ekweozor innocent Contact",
+    // "Ekweozor innocent Contact",
   ],
   openGraph: {
     type: "website",
