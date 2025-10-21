@@ -56,7 +56,7 @@ const Sidebar = () => {
             <div className="sidebar--innerwrapper">
                 <Link href="/" className="sidebar__logo">
                     <figure>
-                        <Image src="/tunde.png" alt="Joseph Tunde" width={50} height={50} />
+                        <Image src="/innocent.png" alt="Joseph Tunde" width={50} height={50} />
                     </figure>
                     <div className="sidebar-header">
                         <h4>Ekweozor innocent</h4>

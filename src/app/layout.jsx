@@ -8,22 +8,22 @@ export const metadata = {
   title: "Ekweozor Innocent",
   description:
     "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
-  image: "https://wwww.josephtunde.me/tunde.png",
+  image: "https://wwww.ekweozorinnocent.dev/innocent.png",
   twitterHandle: "@codesbycent",
-  siteUrl: "https://www.josephtunde.me",
+  siteUrl: "https://www.ekweozorinnocent.dev",
   siteLanguage: "en",
   siteLocale: "en_US",
   authorName: "Ekweozor innocent",
-  authorAvatar: "https://wwww.josephtunde.me/tunde.png",
+  authorAvatar: "https://wwww.ekweozorinnocent.dev/innocent.png",
   authorDescription:
     "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
   defaultTitle: "Ekweozor innocent",
   defaultDescription:
     "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
-  defaultImage: "https://wwww.josephtunde.me/tunde.png",
-  defaultTwitterHandle: "@__jot",
+  defaultImage: "https://wwww.ekweozorinnocent.dev/innocent.png",
+  defaultTwitterHandle: "@codesbycent",
   defaultAuthor: "Ekweozor innocent",
-  defaultAuthorAvatar: "https://wwww.josephtunde.me/tunde.png",
+  defaultAuthorAvatar: "https://wwww.ekweozorinnocent.dev/innocent.png",
   defaultAuthorDescription:
     "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
   socialLinks: {
@@ -32,13 +32,13 @@ export const metadata = {
     github: "https://github.com/Inno-cent",
     email: "mailto:ekweozorinnocent@gmail.com",
   },
-  metadataBase: new URL("https://www.josephtunde.me"),
+  metadataBase: new URL("https://www.ekweozorinnocent.dev"),
   icons: {
     favicon: "/favicon.ico",
     appleTouchIcon: "/apple-touch-icon.png",
     maskIcon: "/safari-pinned-tab.svg",
     msTileImage: "/mstile-150x150.png",
-  },
+  }, 
   keywords: [
     "Ekweozor innocent",
     "Ekweozor innocent Blog",
@@ -58,11 +58,11 @@ export const metadata = {
     locale: "en_US",
     description:
       "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
-    url: "https://www.josephtunde.me",
+    url: "https://www.ekweozorinnocent.dev",
     site_name: "Joseph Tunde",
     images: [
       {
-        url: "https://wwww.josephtunde.me/tunde.png",
+        url: "https://wwww.ekweozorinnocent.dev/innocent.png",
         width: 800,
         height: 600,
         alt: "Joseph Tunde",
@@ -78,7 +78,7 @@ export const metadata = {
     handle: "@codesbycent",
     description:
       "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
-    images: ["https://wwww.josephtunde.me/tunde.png"],
+    images: ["https://wwww.ekweozorinnocent.dev/innocent.png"],
   },
 
   //robots and canonical urls
@@ -87,7 +87,7 @@ export const metadata = {
     follow: true,
   },
   alternates: {
-    canonical: "https://wwww.josephtunde.me",
+    canonical: "https://wwww.ekweozorinnocent.dev",
   },
 };
 
