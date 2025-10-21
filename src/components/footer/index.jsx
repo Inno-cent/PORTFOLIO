@@ -38,11 +38,11 @@ const Footer = () => {
                         <div className="empty--div"></div>
                         <div className="footer__bottom">
                             <p>
-                                &copy; {year} Joseph Tunde
+                                &copy; {year} Ekweozor innocent
                             </p>
                             <span>
                                 Built with 💓, Next JS, SCSS, and Contentful by <a href='https://x.com/__jot'>
-                                    Joseph Tunde
+                                    Ekweozor innocent
                                 </a>
                             </span>
                         </div>
