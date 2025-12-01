@@ -108,6 +108,12 @@ export default function Home() {
                   <br />
                   2022 - 2024
                 </li>
+                 <li>
+                  Lagos state University - Computer Science
+                  <br />
+                  <br />
+                  
+                </li>
               </ul>
             </div>
             <div className="home_about__section_card">
