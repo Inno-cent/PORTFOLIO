@@ -70,7 +70,7 @@ const MobileHeader = () => {
       <div className="mobile-header_container">
         <Link href="/" className="mobile_header__left">
           <figure>
-            <img src="/tunde.png" alt="Logo" />
+            <img src="/innocent.png" alt="Logo" />
           </figure>
           <div className="mobile_header__content">
             <h4>Ekweozor innocent</h4>

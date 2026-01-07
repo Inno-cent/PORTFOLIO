@@ -59,13 +59,13 @@ export const metadata = {
     description:
       "Ekweozor Innocent is a full-stack developer and technical writer passionate about building impactful digital products and seamless user experiences.",
     url: "https://www.ekweozorinnocent.dev",
-    site_name: "Joseph Tunde",
+    site_name: "Ekweozor Innocent",
     images: [
       {
         url: "https://wwww.ekweozorinnocent.dev/innocent.png",
         width: 800,
         height: 600,
-        alt: "Joseph Tunde",
+        alt: "Ekweozor Innocent",
       },
     ],
   },
