@@ -98,7 +98,7 @@ export default function Projects() {
                 </div>
                 <div className="projects--see-more">
                     <p>
-                        Want to see more personal projects? Check out my 👉<Link href="https://github.com/Tunde-Dev-Ox">
+                        Want to see more personal projects? Check out my 👉<Link href="https://github.com/inno-cent">
                         Github
                         </Link> 
                     </p>
