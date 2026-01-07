@@ -336,10 +336,10 @@ export async function generateMetadata({ params }) {
       title: blog.fields.title,
       description: description,
       openGraph: {
-        title: `${blog.fields.title} | Joseph Tunde`,
+        title: `${blog.fields.title} | Innocent Ekweozor`,
         description: description,
-        url: `https://www.josephtunde.me/blog/${slug}`,
-        siteName: 'Joseph Tunde',
+        url: `https://www.ekweozorinnocent.dev/blog/${slug}`,
+        siteName: 'Innocent Ekweozor',
         images: imageUrl ? [{ url: imageUrl, secure_url: imageUrl }] : [],
         locale: 'en_US',
         type: 'article',
@@ -360,13 +360,13 @@ export async function generateMetadata({ params }) {
         title: blog.fields.title,
         description: description,
         images: imageUrl ? [{ url: imageUrl }] : [],
-        sites: '@josephtunde',
-        handle: '@josephtunde',
-        author: 'Joseph Tunde',
+        sites: '@ekweozorinnocent',
+        handle: '@ekweozorinnocent',
+        author: 'Innocent Ekweozor',
         type: 'article',
       },
       alternates: {
-        canonical: `https://www.josephtunde.me/blog/${slug}`
+        canonical: `https://www.ekweozorinnocent.dev/blog/${slug}`
       }
     };
   } catch (error) {
